@@ -1,0 +1,80 @@
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.deps.json
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.runtimeconfig.json
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.runtimeconfig.dev.json
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.dll
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorAssemblyInfo.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorAssemblyInfo.cs
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.AssemblyInfo.cs
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorTargetAssemblyInfo.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.pdb
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.dll
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.pdb
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.Views.dll
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.Views.pdb
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.TagHelpers.input.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.TagHelpers.output.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorCoreGenerate.cache
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorTargetAssemblyInfo.cs
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.Views.pdb
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csproj.CopyComplete
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Viorica's stuff\MyBlogWeb\PrepareArticles\1Part\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.deps.json
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.runtimeconfig.json
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.runtimeconfig.dev.json
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.dll
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.pdb
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.Views.dll
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.Views.pdb
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csprojAssemblyReference.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csproj.CoreCompileInputs.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorAssemblyInfo.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorAssemblyInfo.cs
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.AssemblyInfoInputs.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.AssemblyInfo.cs
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.TagHelpers.input.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.TagHelpers.output.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorCoreGenerate.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorTargetAssemblyInfo.cache
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorTargetAssemblyInfo.cs
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.Views.pdb
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.dll
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.pdb
+C:\VFGitHub\Blog-template-1st-step\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csproj.CopyComplete
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.deps.json
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.runtimeconfig.json
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.runtimeconfig.dev.json
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.dll
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.pdb
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.Views.dll
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\1BlogVF.Views.pdb
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csprojAssemblyReference.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csproj.CoreCompileInputs.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorAssemblyInfo.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorAssemblyInfo.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.AssemblyInfoInputs.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.AssemblyInfo.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.TagHelpers.input.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.TagHelpers.output.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorCoreGenerate.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorTargetAssemblyInfo.cache
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.RazorTargetAssemblyInfo.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.Views.pdb
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.dll
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.pdb
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\1BlogVF.csproj.CopyComplete
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\BlogData.dll
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\bin\Debug\netcoreapp2.1\BlogData.pdb
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\VFGitHub\BlogDynamic\1BlogVF\1BlogVF\obj\Debug\netcoreapp2.1\Razor\Views\TemplateSettings\SettingsNavBar.g.cshtml.cs

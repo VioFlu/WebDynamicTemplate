@@ -1,0 +1,59 @@
+﻿@model BaseViewModel<TemplateViewModel>
+@{
+    ViewData["Title"] = "Settings";
+}
+@section Scripts{
+    <script src="~/node_modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/node_modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+}
+<div>
+    @*<img src="~/Resources/PlusSign.PNG" />"/>*@
+    <div class="row">
+        <div class="col-md">Nav name</div>
+        <div class="col-md">Page name</div>
+        <div class="col-md">Sequence no.</div>
+        <div class="col-md">Hidden</div>
+    </div>
+    @foreach (var entity in Model.NavBarEntities)
+    {
+        <div class="row">
+            <div class="col-md">@entity.Name</div>
+            <div class="col-md">@entity.PageName</div>
+            <div class="col-md">@entity.SeqNo</div>
+            <div class="col-md">@entity.Hidden</div>
+        </div>
+    }
+    <div class="col-sm-4">
+        <button class="btn btnAdd" data-toggle="collapse" href="#collapseFormAddNav" aria-expanded="false" aria-controls="collapseFormAddNav">
+            Add navbar
+        </button>
+        <div class="collapse" id="collapseFormAddNav">
+            <form method="post">
+                <div class="form-group">
+                    <label asp-for="ObjView.Name">Nav name</label>
+                    <input asp-for="ObjView.Name" type="text" class="form-control" placeholder="Enter nav name" />
+                    <small id="NavHelp" class="form-text text-muted">Name of the template menus .</small>
+                    <span asp-validation-for="ObjView.Name" class="text-warning validation"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ObjView.SeqNo">Sequence no.</label>
+                    <input asp-for="ObjView.SeqNo" type="number" class="form-control" placeholder="Enter nav seq. no" />
+                    <span asp-validation-for="ObjView.SeqNo" class="text-warning validation"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ObjView.PageName">Page name</label>
+                    <input asp-for="ObjView.PageName" type="text" class="form-control" placeholder="Enter the page to load" />
+                    <span asp-validation-for="ObjView.PageName" class="text-warning validation"></span>
+                </div>
+                <div class="form-group form-check">
+                    <input asp-for="ObjView.Hidden" type="checkbox" class="form-check-input" />
+                    <label class="form-check-label" asp-for="ObjView.Hidden">Hidden</label>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary btnAdd">Save nav</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

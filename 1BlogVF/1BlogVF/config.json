@@ -1,0 +1,16 @@
+{
+  "ConnectionStrings": {
+    "BlogConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=_BlogDB;Trusted_Connection=True;MultipleActiveResultSets=true"
+  },
+  "Loggging": {
+    "LogLevel": {
+      "Default": "Infromation",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "asdkhalsfhawsgapr",
+    "Issuer": "localhost",
+    "Audience": "users"
+  }
+}

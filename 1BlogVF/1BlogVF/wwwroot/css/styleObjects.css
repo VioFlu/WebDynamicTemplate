@@ -1,0 +1,25 @@
+﻿.buttonPlus {
+    background: url('../resources/plussign.png') no-repeat;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 5px;
+}
+
+.txtAdd {
+    margin-top: 35px;
+}
+.btnAdd:active, .btnAdd:focus {
+    border-color: #5c5c3d;
+    background-color: #d6d6c2;
+}
+
+.btnAdd {
+    background-color: #d6d6c2;
+    font-family: 'Lemon';
+    padding: 20px;
+    /*margin: 20px;*/
+}
